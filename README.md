@@ -2,6 +2,8 @@
 
 This project simulates the motion of a pendulum using physics principles. The simulation is built using SFML and GLM, focusing on accurate representations of the pendulum's movement over time.
 
+[Demo](https://github.com/IAmVictorG/Pandulum/assets/112464371/800d29d3-b9b8-47cd-ace8-ad014b672239)
+
 Pendulum Simulation Preview
 # Features
 
@@ -36,10 +38,6 @@ make
 ```
 # Usage
 
-Simply run the compiled program to start the pendulum simulation. Interactions or controls, if any, can be described here.
-Contributing
+Simply run the compiled program to start the pendulum simulation.
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-License
-[Screencast from 07.09.2023 16:47:32.webm](https://github.com/IAmVictorG/Pandulum/assets/112464371/b2062d6f-9cbc-4ef1-9960-940fe1d26eea)
 
